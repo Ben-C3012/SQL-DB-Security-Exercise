@@ -1,0 +1,32 @@
+node_modules/
+.env
+```
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled output
+dist/
+build/
+out/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+vendor/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.bak
+*.swp
+*.tmp
