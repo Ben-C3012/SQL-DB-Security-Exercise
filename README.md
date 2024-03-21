@@ -1,4 +1,4 @@
-# SQL DB Security Exercise
+# SQL DB Security Exercise 
 This exercise demonstrates the importance of access control in a DB enviroment. 
 
 ## Setup 
